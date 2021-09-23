@@ -29,7 +29,7 @@ require (
 	github.com/matterbridge/go-xmpp v0.0.0-20210731150933-5702291c239f
 	github.com/matterbridge/gozulipbot v0.0.0-20200820220548-be5824faa913
 	github.com/matterbridge/logrus-prefixed-formatter v0.5.3-0.20200523233437-d971309a77ba
-	github.com/mattermost/mattermost-server/v5 v5.30.1
+	github.com/mattermost/mattermost-server/v5 v5.39.0
 	github.com/mattn/godown v0.0.1
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/missdeer/golib v1.0.4
